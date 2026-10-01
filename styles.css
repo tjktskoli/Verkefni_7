@@ -1,0 +1,16 @@
+.articles{background-color: cyan;}
+.sticky-menu{ display: block;
+    position: sticky;
+    top:0;
+    background-color: rgb(255, 240, 209);
+    padding: .5rem 0;}
+
+/*@media screen and (min-width:960px)
+{
+	main
+	{
+		display:grid;
+		grid-template-columns:3fr 1fr;
+	}
+	.aside-menu{display:flex; flex-direction:column;}
+}*/
